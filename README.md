@@ -1,6 +1,6 @@
 # Data_Analytics_report
 
----
+
 
 ## Overview
 
@@ -137,10 +137,3 @@ Feel free to contribute by:
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
-
---- 
-
-This README provides a complete overview of your project and guides users through installation, setup, and usage. Let me know if you'd like further refinements!
